@@ -1,0 +1,22 @@
+Students: 
+
+Name: Ann
+Address: 2 Lane
+GPA: 3.99
+
+Name: Frank
+Address: 4 Lane
+GPA: 3.97
+
+Name: Jake
+Address: 1 Lane
+GPA: 4.00
+
+Name: Jane
+Address: 5 Lane
+GPA: 3.96
+
+Name: Zack
+Address: 3 Lane
+GPA: 3.98
+
